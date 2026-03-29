@@ -1,0 +1,14 @@
+backend/
+api/
+node_modules/
+.git/
+.env
+.env.*
+*.pyc
+__pycache__/
+.pytest_cache/
+docker-compose.yml
+Dockerfile
+nginx.conf
+requirements.txt
+*.py
