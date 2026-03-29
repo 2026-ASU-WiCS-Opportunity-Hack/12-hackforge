@@ -35,13 +35,13 @@ HackForge provides a comprehensive case management platform with:
 - 🎨 **Custom branding** with vocabulary customization
 
 ### Live Demo
-🚀 **[Try HackForge Live](https://your-demo-url.vercel.app)** _(Deploy your instance using the instructions below)_
+🚀 **[Try HackForge Live](https://hackforge-crm.vercel.app/login)** _(Deploy your instance using the instructions below)_
 
 ### Demo Video
-🎥 **[Watch Our 4-Minute Demo](https://your-video-link)** _(Coming soon)_
+🎥 **[Watch Our 2-Minute Demo](https://youtu.be/l6DbA7Vyk3Y)**
 
 ### DevPost Submission
-📝 **[View on DevPost](https://devpost.com/software/hackforge)** _(Coming soon)_
+📝 **[View on DevPost](https://devpost.com/software/hackforge-xicnv7)** _(Coming soon)_
 
 ## Tech Stack
 
