@@ -2,7 +2,7 @@
 
 ## Quick Links
 - [Hackathon Details](https://www.ohack.dev/hack/2026_spring_wics_asu)
-- [DevPost Submission](https://wics-ohack-sp26-hackathon.devpost.com/)
+- [DevPost Submission](https://devpost.com/software/hackforge-xicnv7)
 - [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=team-12-hackforge)
 
 ## Team "HackForge"
@@ -41,7 +41,7 @@ HackForge provides a comprehensive case management platform with:
 🎥 **[Watch Our 2-Minute Demo](https://youtu.be/l6DbA7Vyk3Y)**
 
 ### DevPost Submission
-📝 **[View on DevPost](https://devpost.com/software/hackforge-xicnv7)** _(Coming soon)_
+📝 **[View on DevPost](https://devpost.com/software/hackforge-xicnv7)**
 
 ## Tech Stack
 
@@ -474,3 +474,4 @@ Examples of winning DevPost submissions:
 - [1st place 2023](https://devpost.com/software/preservation-partners-search-engine)
 - [1st place 2019](https://devpost.com/software/zuri-s-dashboard)
 - [1st place 2018](https://devpost.com/software/matthews-crossing-data-manager-oj4ica)
+
